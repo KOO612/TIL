@@ -1,0 +1,11 @@
+# .gitignore
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+*.tmp
+
+# 업무 폴더 제외
+30_Work/
