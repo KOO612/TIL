@@ -101,6 +101,6 @@ MITRE ATT&CK (위 모든 걸 체계화한 공통 언어, T번호)
 
 ## 🔗 연결 노트
 - 이전: [[SEC_Theory_5_MitreAttack]]
-- 다음: (예정) SEC_Setup_1_CMakeBasics
+- 다음: [[SEC_Build_0_CMakeAndLinuxBasics]]
 
 #security #edr #cryptography #symmetric-key #asymmetric-key #hash #sha256 #fundamentals
