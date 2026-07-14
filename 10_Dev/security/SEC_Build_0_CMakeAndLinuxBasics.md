@@ -131,4 +131,4 @@ docker start -ai edr-ubuntu
 
 ## 🔗 연결 노트
 - 이전: [[SEC_Theory_6_CryptoBasics]]
-- 다음: SEC_OSInternals_1_ProcessMemory (1단계 시작)
+- 다음: [[SEC_OSInternals_1_ProcessThreadStructure]]
